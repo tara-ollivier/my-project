@@ -1,0 +1,50 @@
+@import url("https://kit.fontawesome.com/b252231cec.js");
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button-brown.css");
+@import url("components/container.css");
+@import url("components/square-brown.css");
+@import url("components/card.css");
+
+body {
+	background-color: rgb(250,250,250) ;
+	color : white ;
+	font-family: 'Libre Baskerville', serif;
+	color: rgb(250,250,250);
+	font-weight: lighter;
+}
+
+h1 {
+	color : #513C2C ;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 36px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: lighter;
+} 
+
+h2 {
+	color :#513C2C ;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none ;
+	color:#393e46;
+}
+
+#center-grey {
+	text-align : center;
+	color: rgb(50,50,50) ;
+	font-style:italic;
+}
+
+
